@@ -8,7 +8,7 @@ global.donasi = process.env.DONASI
 global.thumbmenu = process.env.THUMB_MENU
 global.sig = process.env.https://www.instagram.com/riadix.ajg/
 global.sgh = process.env.LINK_GITHUB
-global.sgc = process.env.LINK_GROUP
+global.sgc = process.env.https://chat.whatsapp.com/Bj4TwHahDs4DMXKeuBbkwR
 global.ownernumber = process.env.6282199069274
 global.owner = [
   ['0'],
@@ -38,8 +38,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = process.env.PACKNAME
-global.author = process.env.AUTHOR
+global.packname = process.env.Riadixd
+global.author = process.env.Setikerr
 
 global.multiplier = 69 // The higher, The harder levelup
 
