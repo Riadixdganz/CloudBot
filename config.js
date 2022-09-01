@@ -6,14 +6,14 @@ import { fileURLToPath } from 'url'
 
 global.donasi = process.env.DONASI
 global.thumbmenu = process.env.THUMB_MENU
-global.sig = process.env.LINK_IG
+global.sig = process.env.https://www.instagram.com/riadix.ajg/
 global.sgh = process.env.LINK_GITHUB
 global.sgc = process.env.LINK_GROUP
-global.ownernumber = process.env.NOWNER
+global.ownernumber = process.env.6282199069274
 global.owner = [
   ['0'],
   ['0'],
-  [`${process.env.NOWNER}`, `${process.env.NAMAOWNER}`, true]
+  [`${process.env.6282199069274}`, `${process.env.RIADIXD}`, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [`${process.env.MODERATOR}`] // Want some help?
